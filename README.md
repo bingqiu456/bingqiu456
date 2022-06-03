@@ -1,6 +1,6 @@
 ### Welcome to see here ✌️
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingqiu456"  />l am bingyue.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingqiu456"  />I am a middle school student.
 
 Please provide your valuable comments.
 

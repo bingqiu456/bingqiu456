@@ -6,7 +6,7 @@ Please provide your valuable comments.
 
 - ✒️ vscode / sublime / pycharm
 - 📁 PHP / python
-- 📌 ready to learn more advanced php
+- 📌 ready to learn more advanced python
 - 👔 He
 
 ----

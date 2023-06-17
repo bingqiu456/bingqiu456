@@ -11,17 +11,22 @@ Please provide your valuable comments.
 
 ----
 
-### My Blog
+### My Blog 🥝
 [https://blog.bingyue.top](https://blog.bingyue.top)
 
 ----
 
-### Contact information
+### Contact information 🍏
 
-You can contact email hello-yiqiu@qq.com
+✨Email [hello-yiqiu@qq.com](hello-yiqiu@qq.com)
+
+✨QQ [3566619417](https://qm.qq.com/cgi-bin/qm/qr?k=SEs10BFmhCMHsqY1QMqJDihcZjO-_rta&noverify=0&personal_qrcode_source=4)
+
+✨Twitter [bingyue](https://twitter.com/binhe123)
+
+✨Github [bingyue](https://github.com/bingqiu456)
 
 -------
-
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bingqiu456&show_icons=true&theme=radical" />

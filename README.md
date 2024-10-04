@@ -3,7 +3,7 @@
 <h4>🔧A developer from China</h4>
 
 - 👨‍🎓A senior high school student
-- 🖥Learning C++ and conputer algorithm now
+- 🖥Learning C++
 - 🏫I'm busy with my studies
 - 🔗Welcome to see [my blog](https://blog.bingyue.top)
 
@@ -26,6 +26,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingqiu456&layout=compact&hide=html)](https://blog.bingyue.top)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingqiu456&layout=compact&hide=html,css,vbscript)](https://blog.bingyue.top)
 
 ![Bingyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingqiu456&show_icons=true&theme=gruvbox)

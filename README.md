@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/C++-BBFFFF) ![](https://img.shields.io/badge/Python-FFEFD5) ![](https://img.shields.io/badge/PHP-54FF9F) ![](https://img.shields.io/badge/SQL-7B68EE) ![](https://img.shields.io/badge/SQlite-FFC125) ![](https://img.shields.io/badge/Redis-FF6A6A) ![](https://img.shields.io/badge/Typescript-4169E1) ![](https://img.shields.io/badge/JavaScript-FFA500)
 ---
 ### ❤Donate and support
-**Click it** 👉[Me](https://afdian.net/a/bingyueblog)👈
+**Click it** 👉[Me](https://afdian.com/a/bingyueblog)👈
 ---
 ### My Contact
  <a href="https://t.me/binhe233">

@@ -16,10 +16,10 @@
 **Click it** 👉[Me](https://afdian.com/a/bingyueblog)👈
 ---
 ### My Contact
- <a href="https://t.me/binhe233">
+ <a href="https://t.me/Unkown">
     <img src="https://img.shields.io/badge/Telagram-9932CC" alt="telegram">
   </a>
-   <a href="https://twitter.com/binhe123">
+   <a href="https://twitter.com/Unkown">
     <img src="https://img.shields.io/badge/Twitter-B0E2FF" alt="X">
   </a>
 <p></p>

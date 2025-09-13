@@ -15,7 +15,7 @@
 
 ### ✨ Donate
 
-[https://afdian.com/a/bingyue_blog](https://afdian.com/a/bingyue_blog)
+[https://afdian.com/a/moestar](https://afdian.com/a/moestar)
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingqiu456&layout=compact&hide=html,css,vbscript)](https://blog.bingyue.top)

@@ -15,7 +15,7 @@
 
 ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=bingqiu456&show_icons=true&hide_border=true)
 
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=bingqiu456&layout=compact&hide_border=true)
+![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=bingqiu456&layout=compact&hide_border=true&exclude_repo=bingqiu456.github.io)
 
 ## 📝 博客与创作
 
